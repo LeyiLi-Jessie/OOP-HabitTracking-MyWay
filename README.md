@@ -28,7 +28,7 @@ pip install pytest
 - To test the code using pytest\
 python test_habit.py
 - To test using the app with sample data\
-python test.py
+python test.py \
 (test_data.py is called automatically by test.py to import examplary data into the database file)
 
 # License
